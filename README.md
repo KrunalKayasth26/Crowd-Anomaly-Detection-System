@@ -75,7 +75,7 @@ python anomaly_detection.py
 
 
 <p align="center">
-  <img src="./assests/demo_output/lying1.jpg" width="700">
+  <img src="./assests/demo_output/lying 1.jpg" width="700">
 </p>
 
 
