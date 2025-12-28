@@ -52,7 +52,7 @@ python anomaly_detection.py
 ## 📸 Demo Results
 
 <p align="center">
-  <img src="./assets/demo_output/cam1.jpg" width="700">
+  <img src="./assests/demo_output/cam1.jpg" width="700">
 </p>
 
 <p align="center">
