@@ -63,7 +63,22 @@ python anomaly_detection.py
   <img src="./assests/demo_output/fighting.jpg" width="700">
 </p>
 
+
+<p align="center">
+  <img src="./assests/demo_output/fighting2.jpg" width="700">
+</p>
+
+
+<p align="center">
+  <img src="./assests/demo_output/chocking.jpg" width="700">
+</p>
+
+
 <p align="center">
   <img src="./assests/demo_output/lying1.jpg" width="700">
 </p>
 
+
+<p align="center">
+  <img src="./assests/demo_output/lying2.jpg" width="700">
+</p>
