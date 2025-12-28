@@ -56,14 +56,14 @@ python anomaly_detection.py
 </p>
 
 <p align="center">
-  <img src="./assets/demo_output/cam2.jpg" width="700">
+  <img src="./assests/demo_output/cam2.jpg" width="700">
 </p>
 
 <p align="center">
-  <img src="./assets/demo_output/fighting.jpg" width="700">
+  <img src="./assests/demo_output/fighting.jpg" width="700">
 </p>
 
 <p align="center">
-  <img src="./assets/demo_output/lying1.jpg" width="700">
+  <img src="./assests/demo_output/lying1.jpg" width="700">
 </p>
 
