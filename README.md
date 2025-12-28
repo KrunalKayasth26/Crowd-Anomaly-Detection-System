@@ -49,3 +49,5 @@ abnormal crowd activities to improve public safety and response time.
 pip install -r requirements.txt
 python anomaly_detection.py
 ```
+📸 Demo Results
+<p align="center"> <img src="assets/demo_output/cam1.jpg" width="700"/> </p> <p align="center"> <img src="assets/demo_output/cam2.jpg" width="700"/> </p> <p align="center"> <img src="assets/demo_output/fighting.jpg" width="700"/> </p> <p align="center"> <img src="assets/demo_output/lying1.jpg" width="700"/> </p>
